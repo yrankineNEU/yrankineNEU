@@ -1,5 +1,4 @@
-[![Social banner for yrankineNEU](https://github.com/yrankineNEU/yrankineNEU/raw/master/assets/GitHubBanner.svg)](https://github.com/yrankineNEU)
-
+[![Social banner for yrankineNEU]((https://github.com/yrankineNEU/yrankineNEU/blob/3d57fe630ee3f39405b40343eb343c04ca3718df/GitHubBanner.svg))](https://github.com/yrankineNEU)
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
